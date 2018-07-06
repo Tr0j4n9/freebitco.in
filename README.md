@@ -27,3 +27,6 @@ HHHH / LHHH / HLHH / LLHH / HHLH / LHLH / HLLH / LLLH / HHHL/ LHHL/ HLHL / LLHL 
 
 Onces the script has completed betting the 16 sequence binary pattern, it will now change all the losses encountered while playing the first phase of the 16 sequence replacing the loses with the opposite. 
 For example while playing the 16 sequence losses where encountered in the following: I use a sign to identity loses at the top of the alphabets "H" "H" HH/ "L"" H""H""H"/ "H" LHL/ ........... till the last 16 sequence. Now after playing the 16 sequence the script will replace all those losses encountered with their opposite.
+
+Any help would be greatly appreciated.
+Thanks.
