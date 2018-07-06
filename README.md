@@ -1,4 +1,4 @@
-# freebitcoin
+# FreeBitco.in
 This script is to play around with the Multiplier in Freebitco.in
 
 # Basic settings
