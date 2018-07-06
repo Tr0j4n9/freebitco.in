@@ -1,12 +1,12 @@
 // Variable to change:
-var baseBetAmount = 0.00000001;
-var betMultiplier = 2;
-var supportedLoseSequenceBetsLength = 20;
-var betsPatternsLengthInDecimal = [4];
-var betPatternReversed = 1; // Will create the pattern reverse only when equal to 1!
+var baseBetAmount = 0.00000001; // The base amount that you want to bet.
+var betMultiplier = 2; // the multiplier value used.
+var supportedLoseSequenceBetsLength = 20; // After 20 consecutive loose the script stops
 var patternPlayPeriodInSeconds = 100; // The period of playing a single pattern.
-var binarySequenceOpposite = 1; // If equal to 1, will create binary opposed sequences pattern. value vary from 0 to 2.
-var maxGain = 0.00001;
+var maxGain = 0.00001; // The scripts stop when a maximum number of satoshi have benn earned.
+var betsPatternsLengthInDecimal = [4];
+var betPatternReversed = 1;
+var binarySequenceOpposite = 1;
 var satWagered = 0;
 
 // First we load all bets sequences:
